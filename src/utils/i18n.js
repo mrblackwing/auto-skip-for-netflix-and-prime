@@ -121,9 +121,10 @@ export const i18nMap = {
     skip_recap: "రీక్యాప్ దాటవేయి",
   },
   th_TH: {
-    skip_intro: "ข้ามบทนำ",
-    next_epi: "เรื่องต่อไป",
-    skip_recap: "ข้ามเรื่องย่อตอนที่แล้ว",
+    skip_intro: "ข้ามตอนต้น",
+    next_epi: "ตอนถัดไป",
+    skip_recap: "ข้ามความเดิม",
+    skip_ads: "ข้ามโฆษณา",
   },
   zh_CN: {
     skip_intro: "跳过片头",
